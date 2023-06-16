@@ -1,4 +1,4 @@
-## Hi! I'm Flavio and I Proudly make Open Source Code for PC and Android :D
-- To help Gamers I've created [Heroic Games Launcher](https://github.com/flavioislima/HeroicGamesLauncher) 🎮 
-- To help Job Seekers I've created [Remote Work](https://play.google.com/store/apps/details?id=com.remotework) for Android 📱
-- For Rock n Roll fans I've created [Kazagastão App](https://github.com/flavioislima/Kazagastao-App) 🤘🏽
+## Hi! I'm Flavio developer, tech enthusiast, gamer and metalhead :D
+- To help Gamers I started [Heroic Games Launcher](https://github.com/flavioislima/HeroicGamesLauncher) 🎮 
+- To crack the same gaming system, I co-founded [HyperPlay](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client) 🎮 
+- To help Job Seekers I developed [Remote Work](https://play.google.com/store/apps/details?id=com.remotework) for Android 📱
